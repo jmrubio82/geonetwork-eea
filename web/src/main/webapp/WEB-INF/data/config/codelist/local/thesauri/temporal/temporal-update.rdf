@@ -41,6 +41,12 @@
   <skos:Concept rdf:about="http://sdi.eea.europa.eu/thesaurus/temporal-resolution#annually">
     <skos:prefLabel xml:lang="en">Annually</skos:prefLabel>
   </skos:Concept>
+    <skos:Concept rdf:about="http://sdi.eea.europa.eu/thesaurus/temporal-resolution#biennial">
+    <skos:prefLabel xml:lang="en">Biennial</skos:prefLabel>
+  </skos:Concept>
+      <skos:Concept rdf:about="http://sdi.eea.europa.eu/thesaurus/temporal-resolution#triennial">
+    <skos:prefLabel xml:lang="en">Triennial</skos:prefLabel>
+  </skos:Concept>
   <skos:Concept rdf:about="http://sdi.eea.europa.eu/thesaurus/temporal-resolution#asNeeded">
     <skos:prefLabel xml:lang="en">As needed</skos:prefLabel>
   </skos:Concept>
